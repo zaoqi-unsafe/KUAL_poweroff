@@ -1,6 +1,5 @@
-# KUAL_poweroff
-
-    Poweroff
+# KUAL_poweroff  
+    Poweroff  
     Copyright (C) 2017 zaoqi
     
     This program is free software: you can redistribute it and/or modify
